@@ -1,0 +1,33 @@
+.q{
+    background-color: darkseagreen;
+}
+.w{
+    background-color: brown;
+    text-align: center;
+    width: 380px;
+    height: 70px;
+    padding: 17px;
+    box-sizing: border-box;
+}
+.e{
+    width: 1000px;
+    height: 638px;
+    background-color: black;
+    border: 10px solid red;
+}
+.r{
+    background-color: aqua;
+    width: 896px;
+    height: 259px;
+    padding: 40px 54px;
+    box-sizing: border-box;
+    margin: 45px;
+}
+.t{
+    background-color: aqua;
+    width: 896px;
+    height: 259px;
+    padding: 40px 54px;
+    box-sizing: border-box;
+    margin: 45px;
+}
